@@ -1,0 +1,120 @@
+{
+  "Simulado": [
+    {
+      "title": "Direção Defensiva",
+      "imagem": "livro",
+      "questionAwnsered": 1,
+      "level": "medio",
+      "question": [
+        {
+          "title": "A atitude prudente para se livrar de veículos “colados” na retaguarda é:",
+          "awnser": [
+            {
+              "title": "Desviar para a esquerda, alertando o outro condutor."
+            },
+            {
+              "title": "Aumentar a velocidade em relação ao outro veículo."
+            },
+            {
+              "title": "Acender o pisca alerta, fazendo sinal de braço para o outro condutor."
+            },
+            {
+              "title": "Encostar para a direita da pista, reduzindo a velocidade se necessário, dando passagem para o veículo.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "É falso afirmar que, para melhor ser notado no trânsito, o condutor deve:",
+          "awnser": [
+            {
+              "title": "Ligar o limpador para-brisas frequentemente.",
+              "isRight": true
+            },
+            {
+              "title": "Acender os faróis ou lanternas externas nos períodos de lusco-fusco."
+            },
+            {
+              "title": " Utilizar o pisca-alerta e o triângulo de segurança quando parado nas margens das vias."
+            },
+            {
+              "title": "Manter o capô do motor aberto e o triângulo de segurança posicionado atrás, quando este apresentar defeito mecânico."
+            }
+          ]
+        },
+        {
+          "title": "Automatismo correto significa:",
+          "awnser": [
+            {
+              "title": "Atenção fixa."
+            },
+            {
+              "title": "Atenção dispersiva."
+            },
+            {
+              "title": "Gesto inconsciente efetuado de forma segura.",
+              "isRight": true
+            },
+            {
+              "title": "Indisciplina na condução do veículo."
+            }
+          ]
+        },
+        {
+          "title": "A principal causa da colisão frontal em vias retas é:",
+          "awnser": [
+            {
+              "title": "Retorno à esquerda."
+            },
+            {
+              "title": "Ultrapassagem incorreta.",
+              "isRight": true
+            },
+            {
+              "title": "Conversão à direita."
+            },
+            {
+              "title": "Ausência de sinalização."
+            }
+          ]
+        },
+        {
+          "title": "Assinale a alternativa incorreta relacionada ao comportamento do condutor preventivo:",
+          "awnser": [
+            {
+              "title": "Procura a melhor posição no banco para alcançar todos comandos."
+            },
+            {
+              "title": "Regula retrovisores para ter maior visibilidade."
+            },
+            {
+              "title": "Nas manobras, move a cabeça lateralmente para ter maior visibilidade possível."
+            },
+            {
+              "title": "Ele não se preocupa com o ponto cego do retrovisor.",
+              "isRight": true
+            }
+          ]
+        },
+        {
+          "title": "Ao conduzir o veículo sob chuva de granizo, o condutor deve:",
+          "awnser": [
+            {
+              "title": "Aumentar a velocidade para passar rápido pela chuva."
+            },
+            {
+              "title": "Parar o veículo em local seguro e aguardar o término da chuva.",
+              "isRight": true
+            },
+            {
+              "title": "Ligar o pisca-alerta e parar o veículo imediatamente."
+            },
+            {
+              "title": "Parar o veículo debaixo de viaduto para evitar avaria na lataria do veículo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
