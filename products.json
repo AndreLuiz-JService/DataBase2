@@ -1,5 +1,4 @@
-{
-  "produtos":[
+[
   {
   "title": "Brown eggs",
   "type": "dairy",
@@ -450,4 +449,4 @@
   "width": 400,
   "price": 25.62,
   "rating": 3
-}]}
+}]
